@@ -15,3 +15,10 @@ html {
     transform: translateY(-600px);
   }
 }
+
+/* @media only screen and (min-width: 406px) and (max-width: 1090px) {    
+  #monkey {   
+    right: 0;   
+    top: 0;   
+  }   
+} */
